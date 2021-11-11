@@ -13,3 +13,14 @@
   font-size: 24px;
   margin: 50px;
 }
+.section2 {
+  display: flex;
+  font-size: 21px;
+  margin-left: 4px;
+ 
+  padding-top: 200px;
+  }
+.i2 {
+  float: right;
+  margin-left: 500px;
+}
