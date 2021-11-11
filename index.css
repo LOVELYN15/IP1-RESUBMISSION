@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+
+}
+.navbar h2 {
+  float: right;
+  padding-bottom: 20px;
+}
+.mainbar a{
+  justify-content: space-between;
+  text-decoration: none;
+  font-size: 24px;
+  margin: 50px;
+}
