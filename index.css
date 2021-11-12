@@ -1,3 +1,4 @@
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -23,4 +24,30 @@
 .i2 {
   float: right;
   margin-left: 500px;
+}
+.content-1{
+  padding-top: 250px ;
+  clear: both;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 358px;
+  background-color: #E1EBE6;
+  padding-bottom: 150px;
+}
+.content-1 h5{
+  color: brown;
+}
+.box{
+  border: 2px solid grey;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 15px;
+  height: 300px;
+  width: 350px;
+}
+#center-box{
+  height: 450px;
+  margin-top: -80px;
+  padding-top: 75px;
 }
