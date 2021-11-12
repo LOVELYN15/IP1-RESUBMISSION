@@ -93,3 +93,15 @@ margin-right: 48%;
   margin-left: 10px;
   font-size: 20px;
 }
+#img-3{
+  position: absolute;
+  left: 55%;
+  padding-top: 50px;
+  width: 350px;
+}
+.img-4{
+  margin-bottom: -80%;
+}
+.color-2{
+  color: #F6B400;
+}
