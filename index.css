@@ -50,4 +50,18 @@
   height: 450px;
   margin-top: -80px;
   padding-top: 75px;
-}
+}.content-2 h2{
+  font-size: 40px;
+  border-bottom: 10px solid yellow;
+  margin-left:  45%;
+  margin-right: 48%;
+  }
+  .feature{
+      margin: 0 10%;
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  .feature h3{
+      text-align: center;
+  }
