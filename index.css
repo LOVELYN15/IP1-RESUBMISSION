@@ -149,3 +149,17 @@ margin-right: 48%;
   margin-top: 45px;
 font-family: poppins;
 }
+.myForm{
+  padding-top: 25px;
+}
+.myForm input{
+height: 35px;
+}
+.myForm button{
+  height: 40px;
+  width: 120px;
+  margin-left: -5px;
+  background-color: #F6B400;
+  border: 0;
+  
+}
