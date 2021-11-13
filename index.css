@@ -117,5 +117,14 @@ margin-right: 48%;
 }
 .part-3 img{
   padding-top: 100px;
- 
+ }
+ .socials{
+  float: left;
+}
+.footer-1{
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  padding: 70px;
+  background-color: #E1EBE6;
 }
