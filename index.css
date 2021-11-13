@@ -128,3 +128,20 @@ margin-right: 48%;
   padding: 70px;
   background-color: #E1EBE6;
 }
+.footer-1 li{
+  list-style: none;
+}
+.footer-2{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.footer-2 i{
+  padding-right: 10px;
+}
+.footer-1 color{
+ color: #F6B400;
+}
+.color-2{
+  color: #F6B400;
+}
