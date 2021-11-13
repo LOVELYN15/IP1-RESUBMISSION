@@ -105,3 +105,17 @@ margin-right: 48%;
 .color-2{
   color: #F6B400;
 }
+.part-3{
+  padding-top: 50px;
+  background-color: #F6B400;
+  height: 700px;
+  padding-left: 70px;
+}
+.part-3 p{
+  font-weight: bold;
+  font-size: 60px;
+}
+.part-3 img{
+  padding-top: 100px;
+ 
+}
