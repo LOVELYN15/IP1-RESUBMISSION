@@ -163,3 +163,31 @@ height: 35px;
   border: 0;
   
 }
+.bell{
+  font-size: 100px;
+  color: #F6B400;
+}
+.radio{
+  color: #F6B400;
+  font-size: 50%;
+  width: 50px;
+  height: 20px;
+}
+.fast{
+  font-size: 100px;
+  color: #F6B400;
+}
+.counts button{
+  margin-top: -100px;
+  padding: 5px;
+  background-color: lightblue;
+  border:0;
+  border-radius: 10px;
+}
+
+
+.box-2 h5{
+  font-size: 15px;
+  padding-top: 35px;
+  margin-left: -160px;
+}
