@@ -1,4 +1,8 @@
-
+.wholepage {
+  border-width: 5px;
+  border-color: black;
+  border-style: inset;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -86,13 +90,13 @@ margin-right: 48%;
   margin-top: 50px;
   width: 300px;
   padding-right: 20px;
-  border: 2px solid grey;
-  border-radius: 15px;
-  margin-bottom: 30px;
-  padding: 10px;
+  border: 3px solid rgb(218, 213, 213);
+  border-radius: 40px;
+  margin-bottom: 20px;
+  padding: 0px;
   text-align: center;
   height: 400px;
-  box-shadow: 3px 3px grey;
+  box-shadow: 0px 3px rgb(202, 200, 200);
 }
 .part-2{
   background-color: #E1EBE6;
