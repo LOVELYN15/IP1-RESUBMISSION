@@ -137,8 +137,10 @@ margin-right: 48%;
 }
 .footer-2{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   margin: 10px;
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .footer-2 i{
   padding-right: 10px;
