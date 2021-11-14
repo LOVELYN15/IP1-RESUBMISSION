@@ -86,6 +86,9 @@ margin-right: 48%;
 .feature h3{
   text-align: center;
 }
+.feature .cart {
+  display: flex;
+}
 .box-2{
   margin-top: 50px;
   width: 300px;
