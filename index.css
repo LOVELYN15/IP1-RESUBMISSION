@@ -89,6 +89,7 @@ margin-right: 48%;
   background-color: #E1EBE6;
   padding: 150px;
   margin-top: 80px;
+  display: flex;
   
 }
 .content-3{
@@ -97,11 +98,11 @@ margin-right: 48%;
   margin-left: 10px;
   font-size: 20px;
 }
-#img-3{
-  position: absolute;
-  left: 55%;
-  padding-top: 50px;
-  width: 350px;
+.doublecheck {
+  background-image: url(images/double-check2.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+    
 }
 .img-4{
   margin-bottom: -80%;
