@@ -25,6 +25,15 @@
  
   padding-top: 200px;
   }
+  .b1 button{
+    background-color: #F6B400;
+    color: white;
+  padding: 10px;
+  border:0;
+  border-radius: 20px;
+  border-bottom-right-radius: 0px;
+    
+  } 
 .i2 {
   float: right;
   margin-left: 500px;
